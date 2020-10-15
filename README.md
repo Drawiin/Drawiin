@@ -1,16 +1,16 @@
-### Hi there 👋
+### Eu sou Vinicius Santos, Dev Android e apaixonado por tecnologia 👋
 
-<!--
-**Drawiin/Drawiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/drawiin/)](https://www.linkedin.com/in/eduarddojose/)
 
-Here are some ideas to get you started:
+```kotlin
+data class Me(
+  nome = "Vinicius Santo,"
+  idade = 19,
+  tecnologias = listOf("Koltin", "Android", "React", "Flutter", "Node", "Typescipt")
+)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<h1 align="center">
+<img alt="Duduxs" src="https://github-readme-stats.codestackr.vercel.app/api?username=drawiin&show_icons=true&hide_border=true&theme=dark" />
+</h1>
