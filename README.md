@@ -1,11 +1,11 @@
-### Eu sou Vinicius Santos, Dev Android e apaixonado por tecnologia 👋
+### Hi, I Vinicius Sanros a Android Developer passionate about technology 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/drawiin/)](https://www.linkedin.com/in/eduarddojose/)
 
 ```kotlin
 data class Me(
   nome = "Vinicius Santo,"
-  idade = 19,
+  idade = 20,
   tecnologias = listOf("Koltin", "Android", "React", "Flutter", "Node", "Typescipt")
 )
 ```
