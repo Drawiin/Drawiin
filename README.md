@@ -1,4 +1,5 @@
-### Hi, I Vinicius Sanros a Android Developer passionate about technology 👋
+### Hi, I am Vinicius Santos a Android Developer passionate about technology 👋
+I Whant to impact peoples lives in a positive way thught tecnology.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/drawiin/)](https://www.linkedin.com/in/eduarddojose/)
 
@@ -6,7 +7,14 @@
 data class Me(
   nome = "Vinicius Santo,"
   idade = 20,
-  tecnologias = listOf("Koltin", "Android", "React", "Flutter", "Node", "Typescipt")
+  tecnologias = listOf(
+      "Koltin", 
+      "Android", 
+      "React", 
+      "Flutter", 
+      "Node", 
+      "Typescipt"
+  )
 )
 ```
 
