@@ -5,7 +5,7 @@ I Whant to impact peoples lives in a positive way thught tecnology.
 
 ```kotlin
 data class Me(
-  nome = "Vinicius Guimaraes"
+  name = "Vinicius Guimaraes"
   tecnologies = listOf(
       "Koltin", 
       "Android", 
