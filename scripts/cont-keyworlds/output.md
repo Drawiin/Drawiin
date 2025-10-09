@@ -1,0 +1,44 @@
+# 📊 Top 40 Keywords from Job Descriptions
+
+| Rank | Keyword | Count |
+|------|---------|-------|
+| 1 | android | 27 |
+| 2 | design | 10 |
+| 3 | kotlin | 10 |
+| 4 | praticas | 9 |
+| 5 | stone | 8 |
+| 6 | solucoes | 8 |
+| 7 | step | 7 |
+| 8 | product | 7 |
+| 9 | ci | 7 |
+| 10 | pessoas | 7 |
+| 11 | tecnicas | 7 |
+| 12 | tecnica | 7 |
+| 13 | sobre | 7 |
+| 14 | housecall | 6 |
+| 15 | tools | 6 |
+| 16 | git | 6 |
+| 17 | decisoes | 6 |
+| 18 | driven | 5 |
+| 19 | familiarity | 5 |
+| 20 | apis | 5 |
+| 21 | performance | 5 |
+| 22 | apps | 5 |
+| 23 | ambiente | 5 |
+| 24 | testes | 5 |
+| 25 | codigo | 5 |
+| 26 | outros | 5 |
+| 27 | plataforma | 5 |
+| 28 | business | 4 |
+| 29 | management | 4 |
+| 30 | senior | 4 |
+| 31 | application | 4 |
+| 32 | new | 4 |
+| 33 | features | 4 |
+| 34 | devices | 4 |
+| 35 | refine | 4 |
+| 36 | deliver | 4 |
+| 37 | data | 4 |
+| 38 | quality | 4 |
+| 39 | build | 4 |
+| 40 | create | 4 |
