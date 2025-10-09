@@ -167,41 +167,50 @@ Skills: Flutter · Kotlin · Android · MVVM · CI/CD · English · Skill Develo
 
 
 ## 🧾 Descrição da vaga:
-Atividades a serem realizadas: 
-Trabalhar com BDD, TDD e pull request, promovendo um code review constante.
-Atuar em um time multidisciplinar.
-Trabalhar com o método de desenvolvimento incremental.
-Acompanhar as entregas avaliando o impacto que as mudanças ocasionam na relação com os clientes.
-Requisitos Obrigatórios:
-Superior em Ciências da Computação, Engenharia, Sistemas da Informação ou áreas correlatas.
-Experiência com aplicativos em Android nativo.
-Experiência em Android Support Library e Material Design.
-Experiência com diferentes dimensões de dispositivos (tablet, celular e correlatos).
-Experiência com GIT.
-Experiência com fluxo de entrega com qualidade como a realização de testes, e integração contínua.
-Experiência com a linguagem Kotlin.
-Conhecimento em Bibliotecas atuais como Jetpack.
-Experiência com padrões de projetos e princípios do SOLID, KISS e DRY. (Injeção de dependências, uso de interfaces, testes unit).
-Conhecimento de padrões de arquitetura MVVM ou outra que tenha domínio do uso mobile.
-Conhecimento em automação usando Espresso.
-Conhecimento em programação reativa.
-Experiência com monitoramento como New relic, google Analytics, entre outros.
-Experiência com bibliotecas comuns ao desenvolvimento Android (Retrofit, Dagger etc.).
-Requisitos Desejáveis:
-Conhecimento em Jenkins ou outras plataformas de CI/CD.
-Conhecimento em Bluetooth API, SonarQube.
-Conhecimentos sobre o processo de distribuição do Google Play.
-Experiência com atuação em time de agilidade (Scrum e Kanban).
-Buscamos proporcionar ao nosso time um ambiente acolhedor, dinâmico e colaborativo. Para isso, temos várias iniciativas, como:
 
-Oportunidades 100% remotas 👨🏻‍💻
-Vale home office 💻
-Feedbacks periódicos 💬
-Programa de indicações 🏅
-Acolhimento psicológico 🙋🏻‍♂️
-Ginástica laboral 🏋️
-Academia de conhecimento 🧠
-Convênio com escola de inglês 🔤
-Reuniões mensais de transparência 🔃
-Happy hour online 🍻
-Kit de boas-vindas 🎁
+
+
+
+O que você vai encontrar por aqui:
+Que incrível que você está aqui e tem interesse em fazer parte dos nossos times. A TQI é feita para você, sim você que quer ousar sem receio e vivenciar grandes desafios. Você fará parte de times multidisciplinares e de alta performance, em um ambiente descontraído, dinâmico e colaborativo que te proporcionará constantes aprendizados e desenvolvimento.
+
+
+Aqui, você encontrará liberadade e autonomia, atuando com metodologias ágeis em projetos inspiradores. Sua voz e sua contribuição são muito importantes para nós, para a construção dos nossos produtos e também para nossas tomadas de decisões.
+
+
+Não tenha receio em pedir ajuda e compartilhar novas ideias, é assim que conseguimos transformar insights em soluções extraordinárias, somos um time e juntos respiramos inovação.
+
+
+E ainda vamos além do código, aqui você aprende e também tem a oportunidade de ensinar, construir e evoluir, na TQI você será protagonista da sua carreira.
+
+
+O que você precisa saber:
+Linguagem de programação Kotlin e Java;
+Design Patterns;
+Arquitetura MVP ou MVVM;
+Gitflow;
+Programação Reativa Rx;
+Injeção de dependência (Dagger, koin, outros);
+Android Jetpack;
+Persistência com Room;
+Clean Architecture;
+Desenvolvimento de testes unitários;
+Desenvolvimento de testes instrumentados;
+REST;
+Clean code;
+Desenvolvimento de Custom Views;
+Retrofit;
+SoftSkills (organização, capacidade de síntese, comunicação, trabalho em equipe).
+
+Será um diferencial para você:
+Arquitetura modular;
+Capacidade de liderança;
+Roboeletric;
+Conhecimento sobre Flutter;
+Análise de métricas do Google Analytics;
+Crashlytics;
+Ferramentas de análise de código estático;
+Teste A/B;
+Firebase Remote confiig;
+Análise performance de aplicativos;
+CI/CD.
