@@ -30,17 +30,27 @@ Experienced Android Software Engineer with 5+ years in mobile development, using
 
 ### **Main Skills**
 
-  
 
-**Android** | **Kotlin** | **Java** | **Retrofit** | **RESTful APIs** | **CI/CD** | **Jetpack Compose** | **MVVM** | **Clean Architecture**
+**Android** | **Kotlin** | **Java** | **Retrofit** | **RESTful APIs** | **CI/CD** | **Jetpack Compose** | **MVVM** | **Clean Architecture** | **Graphql**
 
   
 
 ### **Professional Experience**
 
   
+**Arctouch** | *Senior Android Software Engineer* | *Jul 2025 – Present*
 
-**Nike** | *Senior Android Software Engineer* | *Apr 2025 – Present*
+  
+
+* Implement a new dynamic rendering system, empowering content creator.
+
+* Restructure the project implementing a new module system with a convention plugin system.
+
+* Created a role model project for building KMP apps with AI.
+
+  
+
+**Nike** | *Senior Android Software Engineer* | *Apr 2025 – Jul 2025*
 
   
 
